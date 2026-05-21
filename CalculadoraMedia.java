@@ -1,5 +1,6 @@
 
 import java.util.Scanner;
+// teste update
 
 public class CalculadoraMedia {
     public static void main(String[] args) {
